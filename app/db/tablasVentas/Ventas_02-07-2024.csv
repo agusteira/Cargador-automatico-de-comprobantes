@@ -1,0 +1,8 @@
+id,email,nombre,tipo,talla,stock,fechaPedido,foto
+1,asd,RemeronDeBoca,camiseta,s,3,"2024-07-01 18:17:42",
+2,loco@gmail,RemeronDeRacing,camiseta,s,25,"2024-07-01 18:17:47",
+3,loco@gmail,RemeronDeRacing,camiseta,s,25,"2024-07-01 18:22:10",
+4,asd@gmail,RemeronDeBoca,camiseta,s,6,"2024-07-01 20:46:23",db/ImagenesDeRopa/2024/RemeronDeBoca_camiseta_s_asd.jpg
+5,asd@gmail,RemeronDeBoca,camiseta,s,6,"2024-07-02 00:19:49",db/ImagenesDeVenta/2024/RemeronDeBoca_camiseta_s_asd.jpg
+6,asd@gmail,"pantalon jogin",pantalon,s,6,"2024-07-02 01:04:21","db/ImagenesDeVenta/2024/pantalon jogin_pantalon_s_asd.jpg"
+7,agustin2424@gmail.com,"pantalon jogin",pantalon,s,2,"2024-07-02 02:38:00","db/ImagenesDeVenta/2024/pantalon jogin_pantalon_s_agustin2424.jpg"
